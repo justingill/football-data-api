@@ -8,4 +8,4 @@ To run enter the project directory and run `docker compose up` this should run t
 
 `http://0.0.0.0:8000` 
 
-Lastly, this API takes an `API_KEY`, so make a `.env` file inside the project and set it equal to your on API key.
+Lastly, this API takes an `API_KEY`, so make a `.env` file inside the project and set it equal to your own API key.
